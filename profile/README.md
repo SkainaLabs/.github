@@ -46,6 +46,10 @@
 - **LendingPoolRouter**: Interest rate calculations and pool management
 - **PositionDeployer**: Factory for creating user positions
 
+### Oracle Integration
+
+The protocol integrates with oracle providers:
+- **Api3**: Primary price feed provider
 
 ## Security
 
